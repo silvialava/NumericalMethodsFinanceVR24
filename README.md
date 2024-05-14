@@ -13,5 +13,9 @@ Mathematical Modeling and Computation in Finance: With Exercises and Python and 
 
 by Cornelis W. Oosterlee and Lech A. Grzelak 
 
-whose repository you can find in my GitHub as well.
+whose repository you can find in my GitHub as well. The first 150 pages of the book above are available for free at
+
+https://www.researchgate.net/publication/334748386_Mathematical_Modeling_and_Computation_in_Finance_With_Exercises_and_Python_and_MATLAB_Computer_Codes
+
+
 
